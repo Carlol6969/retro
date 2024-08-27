@@ -85,10 +85,10 @@ router.post("/",(req,res,next)=>{
 
 
 
-function atualizarestoque(id_produto,quantidade,valor_unitario){
+function atualizarestoque(idproduto,qntde,valorunit){
    
     db.get('SELECT * FROM estoque where idproduto=?',
-    [id_produto], (error, rows) => {
+    [idproduto], (error, rows) => {
         if (error) {
             return res.status(500).send({
                 error: error.message

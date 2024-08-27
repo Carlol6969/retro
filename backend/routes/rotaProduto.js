@@ -7,7 +7,8 @@ db.run(`CREATE TABLE IF NOT EXISTS
             id INTEGER PRIMARY KEY AUTOINCREMENT, 
             descricao TEXT, 
             estoqmin integer, 
-            estoqmax integer)
+            estoqmax integer,
+            )
             `, (createTableError) => {
     if (createTableError) {
         return res.status(500).send({
