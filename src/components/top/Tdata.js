@@ -1,28 +1,28 @@
 const Tdata = [
   {
     cover: "./images/top/category-1.png",
-    para: "headphone",
-    desc: "3k orders this week",
+    para: "Colete Marrom Diamante",
+    desc: "11 em Estoque",
   },
   {
     cover: "./images/top/category-2.png",
-    para: "watch",
-    desc: "4k orders this week",
+    para: "Blusa Azul",
+    desc: "22 em Estoque",
   },
   {
     cover: "./images/top/category-3.png",
-    para: "sunglass",
-    desc: "6k orders this week",
+    para: "Camisa Listrada StreetWear",
+    desc: "8 em Estoque",
   },
   {
     cover: "./images/top/category-2.png",
-    para: "watch",
-    desc: "4k orders this week",
+    para: "Short Coração Jeans",
+    desc: "27 e Estoque",
   },
   {
     cover: "./images/top/category-3.png",
-    para: "sunglass",
-    desc: "6k orders this week",
+    para: "Calça Mom Jeans",
+    desc: "13 em Estoque",
   },
 ]
 
