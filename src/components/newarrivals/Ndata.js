@@ -1,33 +1,33 @@
 const Ndata = [
   {
-    cover: "./images/arrivals/arrivals1.png",
-    name: "Sunglass",
+    cover: "./images/arrivals/jaqueta.jpg",
+    name: "Jaqueta Jeans Verde",
     price: "150",
   },
   {
-    cover: "./images/arrivals/arrivals2.png",
-    name: "Makeup",
+    cover: "./images/arrivals/bownie.jpg",
+    name: "Camiseta Bowie",
     price: "250",
   },
   {
-    cover: "./images/arrivals/arrivals3.png",
-    name: "Smart Watch",
-    price: "50",
+    cover: "./images/arrivals/smiths.jpg",
+    name: "Camisa The Smiths",
+    price: "150",
   },
   {
-    cover: "./images/arrivals/arrivals4.png",
-    name: "Lipstick",
-    price: "15",
+    cover: "./images/arrivals/calça.jpg",
+    name: "Bermuda Jeans Simples",
+    price: "55",
   },
   {
-    cover: "./images/arrivals/arrivals5.png",
-    name: "Green Plant",
-    price: "10",
+    cover: "./images/arrivals/28.jpg",
+    name: "Plus Size Sport",
+    price: "210",
   },
   {
-    cover: "./images/arrivals/arrivals6.png",
-    name: "Bonsai tree",
-    price: "400",
+    cover: "./images/arrivals/callça.jpg",
+    name: "Calça Jeans Larga",
+    price: "90",
   },
 ]
 
